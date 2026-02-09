@@ -1,2 +1,2 @@
 # hangman-game
-Hangman game developed using Python Turtle
+This is a simple Hangman game developed using Python and Turtle module.
